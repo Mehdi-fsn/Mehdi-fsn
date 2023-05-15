@@ -24,7 +24,7 @@
 <br>
 
 <p style="display: inline-block;" align="center">
-<kdb>
+<kbd>
   <kbd>
     <kbd>Mobile</kbd>
     <br>
@@ -34,7 +34,7 @@
   </kbd>
   
   <kdb>
-    <kbd>Programming Languages</kbd>
+    <kdb>Programming Languages</kdb>
       <br>
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> 
@@ -43,17 +43,17 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" /> 
   </kdb>
   
-  <kbd>
-    <kbd>Backend</kbd>
+  <kdb>
+    <kdb>Backend</kdb>
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  </kbd>
+  </kdb>
   
  <kdb>
-    <kbd>Frontend</kbd>
+    <kdb>Frontend</kdb>
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />

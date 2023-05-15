@@ -24,7 +24,6 @@
 <br>
 
 <p style="display: inline-block;" align="center">
-<kbd>
   <kbd>
     <kbd>Mobile</kbd>
     <br>
@@ -63,6 +62,5 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
    </kdb>
-</kdb>
 
 </p>

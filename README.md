@@ -12,8 +12,7 @@
 - 🌱 I’m currently learning Devops with Kubernetes
 - 👯 I’m looking to collaborate on your mobiles applications 
 - 💬 Ask me about anything from [mehdifessiane21@outlook.fr](mailto:mehdifessiane21@outlook.fr), I will answer you with pleasure !
-- 🌐 You can see my personal website through [here](https://mehdi-fsn.github.io/cv_online/))
-- 😄 Pseudo: Kinshasa
+- 🌐 You can see my personal website through [here](https://mehdi-fsn.github.io/cv_online/)
 - ⚡ Fun fact: The first computer mouse was made of wood!
 <br>
 

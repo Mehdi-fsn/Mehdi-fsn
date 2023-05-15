@@ -43,7 +43,7 @@
   </kbd>
   
   <kbd>
-    <kdb>Backend</kbd>
+    <kbd>Backend</kbd>
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />

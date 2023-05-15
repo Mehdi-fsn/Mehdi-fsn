@@ -76,8 +76,8 @@
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+    <img width="30px" src="![image](https://github.com/Mehdi-fsn/Mehdi-fsn/assets/113023990/bb339aa5-dfdb-4e87-8313-ebbd0c8bae2b)" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/androidstudio-original.svg" />
 </kbd>
 
 

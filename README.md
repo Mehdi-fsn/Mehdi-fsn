@@ -5,7 +5,7 @@
 </p>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="[https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F5487982-Developers-Gif&psig=AOvVaw00luSeu8aFF91MC7RnMfUg&ust=1684920847440000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJDQnLeRi_8CFQAAAAAdAAAAABAE)" width = 250px></picture>
 <br>
 
 - 🔭 I’m currently working on a food delivery application

@@ -9,9 +9,9 @@
 <br>
 
 - 🔭 I’m currently working on the first culinary assistant of social media ! 
-- 🌱 I’m currently learning Devops with Kubernetes
+- 🌱 I’m currently learning IA with SkitLearn
 - 👯 I’m looking to collaborate on your mobiles applications 
-- 💬 Ask me about anything from [mehdifessiane21@outlook.fr](mailto:mehdifessiane21@outlook.fr), I will answer you with pleasure !
+- 💬 Ask me about anything from [mehdifessiane@gmail.com](mailto:mehdifessiane@gmail.com), I will answer you with pleasure !
 - 🌐 You can see my personal website through [here](https://mehdi-fsn.github.io/CV_mehdi.fessiane/))
 - ⚡ Fun fact: The first computer mouse was made of wood!
 <br>

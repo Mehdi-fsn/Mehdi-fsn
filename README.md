@@ -8,7 +8,7 @@
 <picture> <img align="right" src="[https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F5487982-Developers-Gif&psig=AOvVaw00luSeu8aFF91MC7RnMfUg&ust=1684920847440000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJDQnLeRi_8CFQAAAAAdAAAAABAE)" width = 250px></picture>
 <br>
 
-- 🔭 I’m currently working on a food delivery application
+- 🔭 I’m currently working on the first culinary assistant of social media ! 
 - 🌱 I’m currently learning Devops with Kubernetes
 - 👯 I’m looking to collaborate on your mobiles applications 
 - 💬 Ask me about anything from [mehdifessiane21@outlook.fr](mailto:mehdifessiane21@outlook.fr), I will answer you with pleasure !
